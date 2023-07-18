@@ -1,0 +1,8 @@
+.idea
+datos_finales_dashboard
+graficas_generadas
+*.png
+*.pptx
+*.csv
+data
+EjercicioVisualizacion.ipynb
